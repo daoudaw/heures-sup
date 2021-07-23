@@ -1,0 +1,23 @@
+*
+{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body 
+{
+    padding-top: 20px;
+}
+
+a {
+    color: #6184a8;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #22509b;
+    font-weight: bold;
+    
+}
